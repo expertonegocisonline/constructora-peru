@@ -1,3 +1,16 @@
+.site-button {
+  color: #fff !important;
+}
+.widget_newsletter .newsletter-bx .form-control {
+  background: #ffff !important;
+  color: #000 !important;
+}
+.section-head h3 {
+  text-align: center !important;
+}
+.header-middle.bg-white {
+  padding: 15px 0;
+}
 h2.text-white.text-uppercase.sep-line-one span {
   text-shadow: none;
 }
@@ -52,17 +65,21 @@ a:focus {
   color: #d42f33 !important;
 }
 .get-in-touch-info {
-  box-shadow: -10px -10px #d42f33 !important;
+  box-shadow: -10px -10px #848688 !important;
 }
 
 .video-section-full-v2:after {
-  background-color: #d42f33 !important;
+  background-color: #848688 !important;
 }
 .about-home.owl-carousel .owl-dots .owl-dot.active span {
   background-color: #d42f33 !important;
 }
 .bg-primary {
-  background-color: #d42f33 !important;
+  background-color: #848688 !important;
+  color: white !important;
+}
+.bg-primary h3 {
+  color: white !important;
 }
 
 .mt-separator:before,
@@ -80,14 +97,14 @@ a:focus {
   border-color: #848688 !important;
 }
 .icon-count-2:after {
-  background: #d42f33 !important;
+  background: #848688 !important;
 }
 .site-button.btn-effect:before,
 .site-button.btn-effect:after {
-  border-color: #d42f33 !important;
+  border-color: #848688 !important;
 }
 .site-button {
-  background: #d42f33 !important;
+  background: #848688 !important;
 }
 
 .site-button-secondry {
@@ -98,7 +115,7 @@ a:focus {
 }
 
 .header-botton {
-  background: #d42f33 !important;
+  background: #848688 !important;
 }
 .header-nav .nav > li.active > a {
   color: white !important;
@@ -107,7 +124,7 @@ a:focus {
   color: white !important;
 }
 .header-nav .nav > li:hover {
-  background: #848688 !important;
+  background: #212121 !important;
 }
 
 /* Estilos propios */

@@ -1,3 +1,6 @@
+.header-middle.bg-white {
+  padding: 15px 0;
+}
 h2.text-white.text-uppercase.sep-line-one span {
   text-shadow: none;
 }
@@ -23,56 +26,56 @@ h2.text-white.text-uppercase.sep-line-one {
 a:active,
 a:hover,
 a:focus {
-  color: #d42f33 !important;
+  color: #7e2726 !important;
 }
 .cssload-loader::before,
 .cssload-loader::after {
   background: #848688 !important;
 }
 .cssload-loader {
-  color: #d42f33 !important;
+  color: #7e2726 !important;
 }
 
 .input-animate.input .spin {
-  background-color: #d42f33 !important;
+  background-color: #7e2726 !important;
 }
 .footer-light .social-icons li a:hover {
-  background-color: #d42f33 !important;
+  background-color: #7e2726 !important;
 }
 .site-footer .widget_services ul li a:hover {
-  color: #d42f33 !important;
+  color: #7e2726 !important;
 }
 .filter-navigation a:after {
-  color: #d42f33 !important;
+  color: #7e2726 !important;
 }
 .masonry-filter > li.active a,
 .masonry-filter > li a:hover,
 .masonry-filter > li a:active,
 .masonry-filter > li a:focus {
-  color: #d42f33 !important;
+  color: #7e2726 !important;
 }
 .get-in-touch-info {
-  box-shadow: -10px -10px #d42f33 !important;
+  box-shadow: -10px -10px #7e2726 !important;
 }
 
 .video-section-full-v2:after {
-  background-color: #d42f33 !important;
+  background-color: #7e2726 !important;
 }
 .about-home.owl-carousel .owl-dots .owl-dot.active span {
-  background-color: #d42f33 !important;
+  background-color: #7e2726 !important;
 }
 .bg-primary {
-  background-color: #d42f33 !important;
+  background-color: #7e2726 !important;
 }
 
 .mt-separator:before,
 .sep-line-one:before,
 .mt-separator:after,
 .sep-line-one:after {
-  background: #d42f33 !important;
+  background: #7e2726 !important;
 }
 .icon-count-2:hover span.icon-count-number {
-  color: #d42f33 !important;
+  color: #7e2726 !important;
 }
 
 .site-button-secondry.btn-effect:before,
@@ -80,25 +83,25 @@ a:focus {
   border-color: #848688 !important;
 }
 .icon-count-2:after {
-  background: #d42f33 !important;
+  background: #7e2726 !important;
 }
 .site-button.btn-effect:before,
 .site-button.btn-effect:after {
-  border-color: #d42f33 !important;
+  border-color: #7e2726 !important;
 }
 .site-button {
-  background: #d42f33 !important;
+  background: #7e2726 !important;
 }
 
 .site-button-secondry {
   background: #848688 !important;
 }
 .text-primary {
-  color: #d42f33 !important;
+  color: #7e2726 !important;
 }
 
 .header-botton {
-  background: #d42f33 !important;
+  background: #7e2726 !important;
 }
 .header-nav .nav > li.active > a {
   color: white !important;
